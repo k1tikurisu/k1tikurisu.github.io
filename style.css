@@ -51,6 +51,10 @@ body {
   text-decoration: underline;
 }
 
+.footer {
+  text-align: center;
+}
+
 .copy {
   font-size: var(--text-sm);
   color: #CDCDCD;
