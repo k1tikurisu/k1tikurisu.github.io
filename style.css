@@ -38,7 +38,7 @@ body {
 }
 
 .svg {
-  vertical-align: middle;
+  vertical-align: -0.1em;
   margin-right: 30px;
 }
 
